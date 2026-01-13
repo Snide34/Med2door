@@ -25,3 +25,9 @@ To ensure a professional-grade experience, the project addresses two major mobil
 Memory Management: Instead of loading the 100MB+ dataset at once, the app utilizes Pagination to load records in small, performant batches.
 
 Network Optimization: We implemented Image Caching (CachedNetworkImage) to store medicine photos locally, reducing data consumption and eliminating scrolling lag
+<img width="1544" height="686" alt="image" src="https://github.com/user-attachments/assets/cbf08601-8ba4-4cd9-b4d1-f04dcce0b102" />
+<img width="1533" height="671" alt="image" src="https://github.com/user-attachments/assets/658c46e7-894b-4ab2-aa7d-ef5ad0f8ee06" />
+<img width="1521" height="676" alt="image" src="https://github.com/user-attachments/assets/d32b0f15-ddc4-4506-a2f2-2cb95e2c9e37" />
+
+
+
